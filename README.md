@@ -1,7 +1,7 @@
 # Customer Churn Analysis – Predictive Modeling & Insights
 This project focuses on identifying customers who are likely to churn using robust machine learning techniques, feature engineering, and business-centric analysis. Designed to help stakeholders make proactive, data-driven retention strategies, this end-to-end pipeline demonstrates how analytics can directly influence customer loyalty and revenue.
 
-##Project Highlights
+## Project Highlights
 - Built a full-fledged churn prediction pipeline using real-world customer data
 - Engineered and selected features that significantly improved model performance
 - Deployed classification models including Logistic Regression, Decision Tree, and Random Forest
